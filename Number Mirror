@@ -1,2 +1,19 @@
 /*Write a program that takes a number
 N as the input, and prints it to the output.*/
+// Difficulty Rating:  200
+
+// Solution:
+
+//Explanation:
+/*I simply  user to input and */
+
+#include <stdio.h>
+
+int main(void) {
+	int num;
+	printf(" ");
+	scanf("%d", &num);
+	printf("%d", num);
+	return 0;
+}
+
