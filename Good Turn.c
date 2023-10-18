@@ -1,13 +1,11 @@
-/*Chef has invented 1-minute Instant Noodles. As the name suggests, each packet takes exactly 
-1 minute to cook. Chef's restaurant has X stoves and only 1 packet can be cooked in a single stove at any minute.
-How many customers can Chef serve in Y minutes if each customer orders exactly 1 packet of noodles?*/
-// Difficulty Rating: 456
+/*Chef and Chefina are playing with dice. In one turn, both of them roll their dice at once.
+They consider a turn to be good if the sum of the numbers on their dice is greater than 6.
+Given that in a particular turn Chef and Chefina got X and Y on their respective dice, 
+find whether the turn was good.*/
+// Difficulty Rating: 238
 
 //Explanation:
-/*I simply asked the user to input two numbers and 
-and then did their multiplication. Numbers inputted are the
-number of stoves and minutes and the output is the number of
-maximum customers the chef can serve.*/
+/*This problem was almost same as the previous one. */
 
 // Solution:
 
