@@ -8,9 +8,4 @@ in a week, find the number of kilometers Chef travels through office trips in a 
 
 //Solution:
 
-#include <stdio.h>
-
-int main(void) {
-	
-}
 
