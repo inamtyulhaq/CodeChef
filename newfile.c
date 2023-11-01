@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main(){
-  //cps paper prep now..ds tomorrow
+  //couldn't figure out the solution till now.
   return 0;
 }
