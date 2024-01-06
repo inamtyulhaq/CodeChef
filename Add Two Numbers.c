@@ -1,6 +1,5 @@
 /*Your task is very simple: given two integers A and B, 
-write a program to add these two numbers and output the sum.*/
-// Difficulty Rating: 
+write a program to add these two numbers and output the sum.*/ 
 
 //Explanation:
 /*In the first line, I took the number of test cases from the user and stored them
@@ -10,7 +9,6 @@ and B from the user and added them in another variable "sum". Then, I printed th
 value of the sum.*/
 
 // Solution:
-
 #include <stdio.h>
 
 int main(void) {
