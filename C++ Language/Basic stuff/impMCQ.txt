@@ -1,3 +1,0 @@
-#include <iostream> is the correct syntax
-
-not '#include <iostream>;'
