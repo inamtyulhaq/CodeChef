@@ -1,4 +1,4 @@
-This repository contains solutions to all the problems that I solved on Codeforces. 
+This repository contains solutions to all the problems that I solved on CodeChef. 
 
 Solutions, along with the explanation are available here.
 
